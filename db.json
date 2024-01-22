@@ -1,0 +1,33 @@
+{
+  "Erro": null,
+  "description": "Inajara Conceicao Ferreira",
+  "QuantidadeItens": 0,
+  "Soma": 2437.24,
+  "Protocolo": "008043482024",
+  "listaDebitos": [
+    {
+      "barcode": "81650000006-1 09313433202-7 40131992024-5 89033693000-7",
+      "dueDate": "31/01/2024",
+      "amount": "609,31",
+      "description": "IPTU 2019 1/4"
+    },
+    {
+      "barcode": "81650000006-1 09313433202-7 40131992024-5 89033693000-7",
+      "dueDate": "31/01/2024",
+      "amount": "609,31",
+      "description": "IPTU 2019 2/4"
+    },
+    {
+      "barcode": "81650000006-1 09313433202-7 40131992024-5 89033693000-7",
+      "dueDate": "31/01/2024",
+      "amount": "609,31",
+      "description": "IPTU 2019 3/4"
+    },
+    {
+      "barcode": "81650000006-1 09313433202-7 40131992024-5 89033693000-7",
+      "dueDate": "31/01/2024",
+      "amount": "609,31",
+      "description": "IPTU 2019 4/4"
+    }
+  ]
+}
